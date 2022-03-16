@@ -13,12 +13,10 @@ The App is reachable at https://hanifnoer.shinyapps.io/books_world_cloud/
 
 ## Data Sources
 The books used in this app can be retreived from https://www.gutenberg.org/
-1. The Tragedy of Macbeth, by William Shakespeare href = "https://www.gutenberg.org/cache/epub/1795/pg1795.txt
-                    p(a("2. A Tale of Two Cities, by Charles Dickens", 
-                        href = "http://www.gutenberg.org/cache/epub/2243/pg2243.txt")),
-                    p(a("3. The Adventures of Sherlock Holmes, by Arthur Conan Doyle", 
-                        href = "https://www.gutenberg.org/files/1661/1661-0.txt")),
-                    p(a("4. Alice in Wonderland, by Lewis Carroll", 
-                        href = "https://www.gutenberg.org/cache/epub/19033/pg19033.txt")),
-                    p(a("5. A Journal of the Plague Year, by Daniel Defoe", 
-                        href = "https://www.gutenberg.org/files/376/376-0.txt")),
+
+List of the books
+[1. The Tragedy of Macbeth, by William Shakespeare](https://www.gutenberg.org/cache/epub/1795/pg1795.txt)
+[2. A Tale of Two Cities, by Charles Dickens] (http://www.gutenberg.org/cache/epub/2243/pg2243.txt")
+[3. The Adventures of Sherlock Holmes, by Arthur Conan Doyle] (https://www.gutenberg.org/files/1661/1661-0.txt")
+[4. Alice in Wonderland, by Lewis Carroll] (https://www.gutenberg.org/cache/epub/19033/pg19033.txt")
+[5. A Journal of the Plague Year, by Daniel Defoe] (https://www.gutenberg.org/files/376/376-0.txt")
